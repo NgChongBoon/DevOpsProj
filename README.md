@@ -17,3 +17,4 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 2. [Open this repo in Gitpod](https://gitpod.io/#github.com/pokurt/GitGram).
 3. After workspace build, dependencies will be installed.
 4. Follow step 2 and 3 in Setup section.
+5. 
