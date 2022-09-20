@@ -14,12 +14,27 @@
 
 [logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/IntendedOutcome.jpg 
 
+# Creating a Bot in Telegram
+- create Bot from BotFather and add Bot into a newly created chatgroup
+![alt text][logo3]
+
+[logo3]: https://github.com/NgChongBoon/DevOpsProj/blob/master/TelegramBotfather.jpg 
+
+![alt text][logo4]
+
+[logo4]: https://github.com/NgChongBoon/DevOpsProj/blob/master/TelegramChat.jpg 
+
 # Creating App in Heroku
 - Configured the app as per figure below to include a Bot.
+- Linked to Github repository name and deploy.
 
 ![alt text][logo2]
 
 [logo2]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuApp.jpg 
+
+![alt text][logo5]
+
+[logo5]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuDeploy.jpg 
 
 
 
