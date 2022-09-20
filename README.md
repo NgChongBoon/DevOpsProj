@@ -40,7 +40,7 @@
 [logo5]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuDeploy.jpg 
 
 # Conclusion
-- Due to lack of technical knowleadge to trouble the code, Heroku App cannot go live.
+- Due to lack of technical knowleadge to trouble the code, Telegram message cannot be sent after developer commits in Github.
 
 ![alt text][logo6]
 
