@@ -9,10 +9,17 @@
 
 # Intended Outcome
 - Whenever developer commits in the Github, there will be an automated Telegram message sent to the group.
-- 
+
 ![alt text][logo1]
 
 [logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/IntendedOutcome.jpg 
+
+# Creating App in Heroku
+- Configured the app as per figure below to include a Bot.
+
+![alt text][logo2]
+
+[logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuApp.jpg 
 
 
 
