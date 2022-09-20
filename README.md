@@ -37,6 +37,11 @@
 
 [logo5]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuDeploy.jpg 
 
+# Conclusion
+- Due to lack of technical knowleadge to trouble the code, Heroku App cannot go live
+![alt text][logo6]
+
+[logo6]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuLog.jpg 
 
 
 
