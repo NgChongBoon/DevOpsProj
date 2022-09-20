@@ -1,7 +1,7 @@
 # Objectives
 - Create a Github repository that execute a workflow each time someone commits a change.
 - Sending a message via Telegram whenever someone makes a commit in the assigned Github repository name.
-- Source: https://www.youtube.com/watch?v=mp3oTG8DC58
+- Source: [Youtube Video] (https://www.youtube.com/watch?v=mp3oTG8DC58)
 
 # Work Flow
 
