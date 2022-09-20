@@ -41,7 +41,7 @@
 - Due to lack of technical knowleadge to trouble the code, Heroku App cannot go live
 ![alt text][logo6]
 
-[logo6]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuLog.jpg 
+[logo6]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuLogs.jpg 
 
 
 
