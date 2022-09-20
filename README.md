@@ -16,7 +16,7 @@
 [logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/IntendedOutcome.jpg 
 
 # Creating a Bot in Telegram
-- create Bot from BotFather and add Bot into a newly created chatgroup
+- Created Bot from BotFather and add Bot into a newly created chatgroup.
 
 ![alt text][logo3]
 
@@ -39,7 +39,7 @@
 [logo5]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuDeploy.jpg 
 
 # Conclusion
-- Due to lack of technical knowleadge to trouble the code, Heroku App cannot go live
+- Due to lack of technical knowleadge to trouble the code, Heroku App cannot go live.
 
 ![alt text][logo6]
 
