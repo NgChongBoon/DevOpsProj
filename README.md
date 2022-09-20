@@ -19,7 +19,7 @@
 
 ![alt text][logo2]
 
-[logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuApp.jpg 
+[logo2]: https://github.com/NgChongBoon/DevOpsProj/blob/master/HerokuApp.jpg 
 
 
 
