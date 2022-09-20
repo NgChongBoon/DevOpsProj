@@ -7,7 +7,7 @@
 
 [logo]: https://github.com/NgChongBoon/DevOpsProj/blob/master/WorkFlow.jpg "Logo Title Text 1"
 
-#Intended Outcome
+# Intended Outcome
 
 ![alt text][logo1]
 
