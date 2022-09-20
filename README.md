@@ -8,7 +8,8 @@
 [logo]: https://github.com/NgChongBoon/DevOpsProj/blob/master/WorkFlow.jpg "Logo Title Text 1"
 
 # Intended Outcome
-
+- Whenever developer commits in the Github, there will be an automated Telegram message sent to the group.
+- 
 ![alt text][logo1]
 
 [logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/IntendedOutcome.jpg "Logo Title Text 1"
