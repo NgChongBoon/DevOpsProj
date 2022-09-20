@@ -9,9 +9,9 @@
 
 #Intended Outcome
 
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://github.com/NgChongBoon/DevOpsProj/blob/master/IntendedOutcome.jpg "Logo Title Text 1"
+[logo1]: https://github.com/NgChongBoon/DevOpsProj/blob/master/IntendedOutcome.jpg "Logo Title Text 1"
 
 
 
