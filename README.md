@@ -16,6 +16,7 @@
 
 # Creating a Bot in Telegram
 - create Bot from BotFather and add Bot into a newly created chatgroup
+
 ![alt text][logo3]
 
 [logo3]: https://github.com/NgChongBoon/DevOpsProj/blob/master/TelegramBotfather.jpg 
