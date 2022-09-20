@@ -19,4 +19,4 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 3. After workspace build, dependencies will be installed.
 4. Follow step 2 and 3 in Setup section.
 5. 
-<img src="WorkFlow.jpeg">
+[logo]: https://github.com/NgChongBoon/DevOpsProj/blob/master/WorkFlow.jpg "Logo Title Text 2"
